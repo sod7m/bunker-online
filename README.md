@@ -4,7 +4,7 @@
 [![License: MIT][license_badge]][license_link]
 [![Powered by Dart Frog](https://img.shields.io/endpoint?url=https://tinyurl.com/dartfrog-badge)](https://dartfrog.vgv.dev)
 
-Full-stack authentication system built with Dart Frog backend and PostgreSQL database.
+Authentication system built with Dart Frog backend and PostgreSQL database.
 
 ## Features
 
